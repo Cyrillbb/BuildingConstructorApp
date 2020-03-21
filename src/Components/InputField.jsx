@@ -5,7 +5,7 @@ function InputField(props) {
         <div>
             <input type='text' defaultValue='how many porches' id='porchNum'  />
             <input type='text' defaultValue='how many floors' id='floorNum' />
-            <input type='submit' defaultValue='Submit building parameters' onClick={props.submit} />
+            <input type='input' defaultValue='Submit building parameters' onClick={props.submit} />
         </div>
     )
 }

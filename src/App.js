@@ -1,7 +1,6 @@
 import React from 'react';
 import InputField from './Components/InputField'
 import BuildingBlock from './Components/BuildingBlock/BuildingBlock'
-
 import './App.css';
 
 class App extends React.Component {
@@ -24,10 +23,10 @@ class App extends React.Component {
   }
   render() {
     return (
-      <div>
+      <div className='constructor'>
         <InputField submit={this.handleSubmit} />
         {/*<BuildingBlock floorNum={parseInt(this.state.floorNum)} />*/}
-        <div>
+        <div className='building'>
           {Array.from(Array(parseInt(this.state.porchNum)).keys()).map(item => <div key={item}><BuildingBlock floorNum={parseInt(this.state.floorNum)} /></div>)}
         </div>
       </div>

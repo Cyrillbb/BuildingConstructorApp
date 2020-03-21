@@ -2,8 +2,8 @@ import React from 'react'
 
 function GroundBlock() {
     return (
-        <div>
-           GroundBlock 
+        <div className='groundBlock'>
+          <div className='door'></div>
         </div>
     )
 }

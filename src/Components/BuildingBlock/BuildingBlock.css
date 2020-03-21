@@ -1,0 +1,40 @@
+.middleBlock {
+    background-color: darkkhaki;
+    width: 100px;
+    height: 100px;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.window {
+    background-color: skyblue;
+    height: 60px;
+    width: 60px;     
+    margin-top: 10px;
+}
+
+.topBlock {
+    background-color: saddlebrown;
+    width: 100px;
+    height: 50px;
+}
+
+
+
+.groundBlock {
+    background-color: salmon;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.door {
+    background-color: lightslategray;
+    height: 80px;
+    width: 60px;
+    margin-top: 20px;
+}

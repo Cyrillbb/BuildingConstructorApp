@@ -2,8 +2,8 @@ import React from 'react'
 
 function MiddleBlock() {
     return (
-        <div>
-            MiddleBlock
+        <div className='middleBlock'>
+           <div className='window'></div>
         </div>
     )
 }
