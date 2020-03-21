@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BuildingConstructorApp/static/css/main.97f7f3cd.chunk.css",
+    "main.js": "/BuildingConstructorApp/static/js/main.c1fbe82b.chunk.js",
+    "main.js.map": "/BuildingConstructorApp/static/js/main.c1fbe82b.chunk.js.map",
+    "runtime-main.js": "/BuildingConstructorApp/static/js/runtime-main.097b4eec.js",
+    "runtime-main.js.map": "/BuildingConstructorApp/static/js/runtime-main.097b4eec.js.map",
+    "static/js/2.aa7633a4.chunk.js": "/BuildingConstructorApp/static/js/2.aa7633a4.chunk.js",
+    "static/js/2.aa7633a4.chunk.js.map": "/BuildingConstructorApp/static/js/2.aa7633a4.chunk.js.map",
+    "index.html": "/BuildingConstructorApp/index.html",
+    "precache-manifest.6c3f64879752b3f9edb9a88ae4c69231.js": "/BuildingConstructorApp/precache-manifest.6c3f64879752b3f9edb9a88ae4c69231.js",
+    "service-worker.js": "/BuildingConstructorApp/service-worker.js",
+    "static/css/main.97f7f3cd.chunk.css.map": "/BuildingConstructorApp/static/css/main.97f7f3cd.chunk.css.map",
+    "static/js/2.aa7633a4.chunk.js.LICENSE.txt": "/BuildingConstructorApp/static/js/2.aa7633a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.097b4eec.js",
+    "static/js/2.aa7633a4.chunk.js",
+    "static/css/main.97f7f3cd.chunk.css",
+    "static/js/main.c1fbe82b.chunk.js"
+  ]
+}
